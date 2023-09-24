@@ -21,6 +21,6 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # 请把 penggang-home/blog-two.git 换成你的项目地址
-# git push -f git@github.com:fanwang551/vuepress-blog.git master:gh-pages
+git push -f git@github.com:fanwang551/vuepress-blog.git master:gh-pages
 
 cd -
