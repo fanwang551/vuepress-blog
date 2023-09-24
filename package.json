@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
-    "@vuepress-yard/vuepress-plugin-window": "^1.0.10",
+    
     "jquery": "^3.6.0",
     "vuepress-plugin-cursor-effects": "^1.0.2"
   },
